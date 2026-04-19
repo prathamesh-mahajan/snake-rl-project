@@ -1,5 +1,6 @@
-streamlit==1.32.2
-torch==2.2.1
-numpy==1.26.4
-pandas==2.2.1
-plotly==5.19.0
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+streamlit
+numpy
+pandas
+plotly
