@@ -1,0 +1,17 @@
+{
+    "name": "model",
+    "date": "2026-04-20T00:43:46.992419",
+    "episodes": 300,
+    "best_score": 91,
+    "average_score": 20.926666666666666,
+    "hyperparameters": {
+        "episodes": 300,
+        "learning_rate": 0.001,
+        "gamma": 0.9,
+        "epsilon_start": 80,
+        "epsilon_min": 0,
+        "epsilon_decay": 1,
+        "batch_size": 1000,
+        "max_steps": 2000
+    }
+}
